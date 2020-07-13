@@ -7,6 +7,7 @@ Desarrollada en react y que consume una api rest QuoteApi.
 En el directorio del proyecto, puede ejecutar:
 
 1. Descargar zip y descomprimir o clonar el proyecto. git clone https://github.com/rzjan/AppQuoteClient.git
+2. Abrir el proyecto en tu editor favorito, mi caso visual studio code.
 2. Ejecutar npm install.
 3. Ejecutar npm start para iniciar.
 
