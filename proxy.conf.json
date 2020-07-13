@@ -1,0 +1,9 @@
+{
+
+    "/auth/*":{
+    "target":"https://appquotationapi.azurewebsites.net",
+    "secure":false,
+    "changeOrigin":true
+    }
+
+}
